@@ -7,6 +7,6 @@ public class Main {
         Jacek.dodawanieOcenyMatematyka();
         Jacek.dodawanieOcenyMatematyka();
         Jacek.wyswietlanieOcen();
-        Jacek.sredniaPrzedmiotu();
+        Jacek.sredniaPrzedmiotu(1); //pozniej dodaj skaner
     }
 }
